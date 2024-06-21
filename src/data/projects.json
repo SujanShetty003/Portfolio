@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "The model can classify input data into different emotions, such as happiness, sadness, anger, etc..",
+    "skills": ["Machine Learning", "Tenserflow", "OpenCV2"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SujanShetty003/EmotionalDetection-Using-Tenserflow/blob/main/Emotinaldetection.ipynb"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a  AR technology ,python based for cricket enthusiasts to access real-time scores and player statistics.",
+    "skills": ["JavaScript", "AR"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/LoneWolf3231/Livescore-and-Player-Info-using-AR-VR"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
